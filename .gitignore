@@ -1,0 +1,5 @@
+/mnist/*
+!/mnist/
+/__pycache__/*
+/checkpoints/*.pth
+!/checkpoints/
